@@ -10,4 +10,8 @@ function retrieveEmployeeInformation(){
   
 }
 
-function 
+function addNewElementAsLi(value){
+  
+}
+
+function
