@@ -5,13 +5,13 @@ function preventRefreshOnSubmit(){
 }
 
 preventRefreshOnSubmit()
-input = document.querySelector('input')
+let input = document.querySelector('input')
 function retrieveEmployeeInformation() {
   return input.value
 }
 
 function addNewElementAsLi() {
-  value = retrieveEmployeeInformation()
+ let value = retrieveEmployeeInformation()
   
 }
 
