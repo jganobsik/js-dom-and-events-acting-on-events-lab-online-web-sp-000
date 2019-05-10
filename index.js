@@ -19,7 +19,10 @@ function addNewLiOnClick() {
   
   let button = document.querySelector('input[type="submit"]')
   
-  
+  button.addEventListener('click', function(event) {
+    addNewElementAsLi()
+    resetInput()
+  })
 }
 
 function clearEmployeeListOnLinkClick() {
