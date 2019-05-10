@@ -6,16 +6,18 @@ function preventRefreshOnSubmit(){
 
 preventRefreshOnSubmit()
 
-function retrieveEmployeeInformation(){
+function retrieveEmployeeInformation() {
   
 }
 
-function addNewElementAsLi(value){
+function addNewElementAsLi(value) {
   
 }
 
-function addNewLiOnClick(){
+function addNewLiOnClick() {
   
 }
 
-function 
+function clearEmployeeListOnLinkClick() {
+  
+}
