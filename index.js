@@ -21,7 +21,7 @@ function addNewLiOnClick() {
   
   button.addEventListener('click', function(event) {
     addNewElementAsLi()
-    resetInput()
+    document.querySelector('input').value = ''
   })
 }
 
