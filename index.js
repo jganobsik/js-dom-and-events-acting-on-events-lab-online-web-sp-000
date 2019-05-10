@@ -10,8 +10,8 @@ function retrieveEmployeeInformation() {
   return input.value
 }
 
-function addNewElementAsLi(value) {
-  
+function addNewElementAsLi() {
+  value = 
 }
 
 function addNewLiOnClick() {
