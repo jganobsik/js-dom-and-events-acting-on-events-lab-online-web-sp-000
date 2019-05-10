@@ -12,7 +12,7 @@ function retrieveEmployeeInformation() {
 
 function addNewElementAsLi() {
  let value = retrieveEmployeeInformation()
-  
+ document.querySelector('.employee-list').insertAdjacentHTML('beforeend', `<li>${value}</li>`)
 }
 
 function addNewLiOnClick() {
