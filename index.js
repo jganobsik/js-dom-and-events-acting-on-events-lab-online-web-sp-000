@@ -11,7 +11,8 @@ function retrieveEmployeeInformation() {
 }
 
 function addNewElementAsLi() {
-  value = 
+  value = retrieveEmployeeInformation()
+  
 }
 
 function addNewLiOnClick() {
