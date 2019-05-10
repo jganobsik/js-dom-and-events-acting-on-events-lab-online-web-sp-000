@@ -5,7 +5,7 @@ function preventRefreshOnSubmit(){
 }
 
 preventRefreshOnSubmit()
-
+input = 
 function retrieveEmployeeInformation() {
   return input.value
 }
